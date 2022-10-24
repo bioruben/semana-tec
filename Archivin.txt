@@ -1,0 +1,6 @@
+¿Cómo se dice puerta en inglés?
+Door
+¿Cómo se le dice a la persona que vende puertas?
+VendeDoor
+¿Cómo se le dice al que las compra?
+CompraDoor
