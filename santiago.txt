@@ -1,2 +1,2 @@
-Archivo de preuba para ejemplo de Github 
+Archivo de prueba para ejemplo de Github 
 -Santiago
